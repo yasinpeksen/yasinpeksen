@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinpeksen&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpeksen" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **multiple projects (node.js, Python, .Net)**<br><br>- 🌱 I’m currently learning **Rust**<br><br>
+- 🔭 I’m currently working on **multiple projects (node.js, Python, .Net)**<br><br>
+- 🌱 I’m currently learning **Rust**<br><br>
 - 👯 I’m looking to collaborate on **Open source projects**<br><br>
 - 👨‍💻 All of my projects are available at [https://github.com/yasinpeksen](https://github.com/yasinpeksen)<br><br>
 - 💬 Ask me about **Javascript, Typescript, Node.js, Python, C#, NestJS, CI/CD, MySQL, PostgreSQL, Linux Distros, Neovim**<br><br>
