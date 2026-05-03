@@ -4,7 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinpeksen&label=Profile%20views&color=0e75b6&style=flat" alt="yasinpeksen" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **multiple projects (node.js, Python, .Net)**<br><br>- 🌱 I’m currently learning **Rust**<br><br>- 👯 I’m looking to collaborate on **Open source projects**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/yasinpeksen](https://github.com/yasinpeksen)<br><br>- 💬 Ask me about **Javascript, Typescript, Node.js, Python, C#, NestJS, CI/CD, MySQL, PostgreSQL, Linux Distros, Neovim**<br><br>- 📫 How to reach me **hyasinpeksen@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/hursityasinpeksen](https://www.linkedin.com/in/hursityasinpeksen)<br><br>- ⚡ Fun fact **Lets talk about Games, Movies, Tv Shows**
+- 🔭 I’m currently working on **multiple projects (node.js, Python, .Net)**<br><br>- 🌱 I’m currently learning **Rust**<br><br>
+- 👯 I’m looking to collaborate on **Open source projects**<br><br>
+- 👨‍💻 All of my projects are available at [https://github.com/yasinpeksen](https://github.com/yasinpeksen)<br><br>
+- 💬 Ask me about **Javascript, Typescript, Node.js, Python, C#, NestJS, CI/CD, MySQL, PostgreSQL, Linux Distros, Neovim**<br><br>
+- 📫 How to reach me **hyasinpeksen@gmail.com**<br><br>
+- 📄 Know about my experiences [https://www.linkedin.com/in/hursityasinpeksen](https://www.linkedin.com/in/hursityasinpeksen)<br><br>
+- ⚡ Fun fact **Lets talk about Games, Movies, Tv Shows**
 
 
 ## 🌐 Socials:
